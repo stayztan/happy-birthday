@@ -5,7 +5,7 @@ html {
 body {
   margin: 0;
   font-family: "Work Sans", sans-serif;
-  background-color: "#FFCCCB";
+  background-color: #FFCCCB;
 }
 
 .container {
@@ -127,7 +127,7 @@ body {
   position: absolute;
   width: 80px;
   top: -35px;
-  left: 51.5%;
+  left: 50%;
   /* transform: scale(0.1); */
 }
 
@@ -296,5 +296,11 @@ body {
   .nine p {
     font-size: 1.5rem;
     font-weight: lighter;
+  }
+
+  .ten img {
+    width: 80%;
+    max-width: 300px;
+    height: auto;
   }
 }
