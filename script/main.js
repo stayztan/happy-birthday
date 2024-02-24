@@ -135,7 +135,7 @@ const animationTimeline = () => {
     .to(".idea-3 strong", 0.5, {
       scale: 1.2,
       x: 10,
-      backgroundColor: "rgb(21, 161, 237)",
+      backgroundColor: "rgb(233, 79, 88)",
       color: "#fff"
     })
     .to(".idea-3", 0.7, ideaTextTransLeave, "+=1.5")
@@ -249,7 +249,7 @@ const animationTimeline = () => {
       {
         scale: 1,
         rotationY: 0,
-        color: "#ff69b4",
+        color: "#FF0000",
         ease: Expo.easeOut
       },
       0.1,

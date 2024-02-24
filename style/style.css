@@ -5,6 +5,7 @@ html {
 body {
   margin: 0;
   font-family: "Work Sans", sans-serif;
+  background-color: "#FFCCCB";
 }
 
 .container {
@@ -126,7 +127,7 @@ body {
   position: absolute;
   width: 80px;
   top: -35px;
-  left: 41.5%;
+  left: 51.5%;
   /* transform: scale(0.1); */
 }
 
@@ -159,7 +160,7 @@ body {
 .eight svg:nth-child(1) {
   top: 7vh;
   left: 5vw;
-  fill: #bd6ecf;
+  fill: #ad070a;
 }
 
 .eight svg:nth-child(2) {
@@ -241,19 +242,19 @@ body {
 
 @media screen and (max-height: 800px) {
   .six .hat {
-    left: 37%;
+    left: 47%;
   }
 }
 
 @media screen and (max-height: 700px) {
   .six .hat {
-    left: 32%;
+    left: 42%;
   }
 }
 
 @media screen and (max-height: 850px) and (max-width: 450px) {
   .six .hat {
-    left: 32%;
+    left: 42%;
   }
 }
 
